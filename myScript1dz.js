@@ -1,4 +1,6 @@
 "use strict";
+
+
 //Задание 1
 let tempCels = +prompt("Задайте температуру в градусах по Цельсию:");
 let tempFar = (9 / 5) * tempCels + 32;
